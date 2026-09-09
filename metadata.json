@@ -1,0 +1,6 @@
+{
+  "name": "CycloConnect",
+  "description": "Modern desktop cycling companion for Mio Cyclo devices with USB track sync, Strava uploads, and Komoot integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
