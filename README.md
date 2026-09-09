@@ -137,4 +137,4 @@ npm start
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information. Mio, Cyclo, Strava, and Komoot are trademarks of their respective owners.
+Distributed under the Creative Commons NC 4.0 License. See `LICENSE` for more information. Mio, Cyclo, Strava, and Komoot are trademarks of their respective owners.
